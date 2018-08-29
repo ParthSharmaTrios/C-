@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+c:\users\parthsharma\documents\visual studio 2015\projects\helloworld\helloworld\helloworld.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HelloWorld.vcxproj -> c:\users\parthsharma\documents\visual studio 2015\Projects\HelloWorld\Debug\HelloWorld.exe
+  HelloWorld.vcxproj -> c:\users\parthsharma\documents\visual studio 2015\Projects\HelloWorld\Debug\HelloWorld.pdb (Full PDB)
